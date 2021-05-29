@@ -16,3 +16,4 @@ no  |  Reading title
 2| **[Growth Mindset](https://github.com/ThaerJomhawi/reading-notes/blob/main/Growth%20mindset.md)**
 3| **[Git](https://github.com/ThaerJomhawi/reading-notes/blob/main/Read02.md) **
 4| **[ Wireframe](https://github.com/ThaerJomhawi/reading-notes/blob/main/Read03.md)**
+5| **[ Java script](https://github.com/ThaerJomhawi/reading-notes/blob/main/Read04.md)**
