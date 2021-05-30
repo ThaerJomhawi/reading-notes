@@ -17,3 +17,4 @@ no  |  Reading title
 3| **[Git](https://github.com/ThaerJomhawi/reading-notes/blob/main/Read02.md) **
 4| **[ Wireframe](https://github.com/ThaerJomhawi/reading-notes/blob/main/Read03.md)**
 5| **[ Java script](https://github.com/ThaerJomhawi/reading-notes/blob/main/Read04.md)**
+6| **[ Java script loops](https://github.com/ThaerJomhawi/reading-notes/blob/main/Read05.md)**
