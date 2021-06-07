@@ -28,4 +28,5 @@ no  |  Reading title
 ------------ | -------------
 1| **[Introductory HTML and JavaScript](https://github.com/ThaerJomhawi/reading-notes/blob/main/class01.md)**
 2| **[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://github.com/ThaerJomhawi/reading-notes/blob/main/class02.md)**
+2| **[HTML Lists, Control Flow with JS, and the CSS Box Model](https://github.com/ThaerJomhawi/reading-notes/blob/main/class03.md)**
 
