@@ -26,5 +26,6 @@ no  |  Reading title
 
 no  |  Reading title
 ------------ | -------------
-1| **[Introductory HTML and JavaScript](class-01.md)**
+1| **[Introductory HTML and JavaScript](https://github.com/ThaerJomhawi/reading-notes/blob/main/class01.md)**
+2| **[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://github.com/ThaerJomhawi/reading-notes/blob/main/class02.md)**
 
