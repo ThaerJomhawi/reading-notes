@@ -30,4 +30,6 @@ no  |  Reading title
 2| **[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://github.com/ThaerJomhawi/reading-notes/blob/main/class02.md)**
 3| **[HTML Lists, Control Flow with JS, and the CSS Box Model](https://github.com/ThaerJomhawi/reading-notes/blob/main/class03.md)**
 4| **[HTML Links, JS Functions, and Intro to CSS Layout](https://github.com/ThaerJomhawi/reading-notes/blob/main/class04.md)**
+5| **[HTML Images; CSS Color & Text](https://github.com/ThaerJomhawi/reading-notes/blob/main/class05.md)**
+
 
