@@ -33,5 +33,6 @@ no  |  Reading title
 5| **[HTML Images; CSS Color & Text](https://github.com/ThaerJomhawi/reading-notes/blob/main/class05.md)**
 6| **[JS Object Literals; The DOM](https://github.com/ThaerJomhawi/reading-notes/blob/main/class06.md)**
 7| **[Object-Oriented Programming, HTML Tables](https://github.com/ThaerJomhawi/reading-notes/blob/main/class07.md)**
+8| **[CSS Layout](https://github.com/ThaerJomhawi/reading-notes/blob/main/class08.md)**
 
 
