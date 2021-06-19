@@ -36,5 +36,6 @@ no  |  Reading title
 8| **[CSS Layout](./class08.md)**
 9| **[Forms and Events](./class09.md)**
 10| **[JS Debugging](./class10.md)**
+10| **[Assorted Topics](./class11.md)**
 
 
