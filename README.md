@@ -37,6 +37,6 @@ no  |  Reading title
 9| **[Forms and Events](./class09.md)**
 10| **[JS Debugging](./class10.md)**
 11| **[Assorted Topics](./class11.md)**
-12| **[Docs for the HTML <canvas> Element & Chart.js](./class12.md)**
+12| **[Docs for the HTML Element & Chart.js](./class12.md)**
 
 
