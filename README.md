@@ -14,7 +14,7 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 no  |  Reading title
 ------------ | -------------
 1| **[Introduction](./README.md )**
-2| **[Growth Mindset](./Growth mindset.md)**
+2| **[Growth Mindset](./Growthmindset.md)**
 3| **[Git](./Read02)**
 4| **[ Wireframe](./Read03)**
 5| **[ Java script](./Read04)**
@@ -38,6 +38,7 @@ no  |  Reading title
 10| **[JS Debugging](./class10.md)**
 11| **[Assorted Topics](./class11.md)**
 12| **[Docs for the HTML Element & Chart.js](./class12.md)**
+13| **[ Local Storage](./class13.md)**
 
 
 
