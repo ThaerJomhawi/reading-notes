@@ -39,8 +39,8 @@ no  |  Reading title
 11| **[Assorted Topics](./class11.md)**
 12| **[Docs for the HTML Element & Chart.js](./class12.md)**
 13| **[ Local Storage](./class13.md)**
-14| **[ CSS Transforms, Transitions, and Animations](./class14a.md)**
-15| **[ What Google Learned About Teams](./class14b.md)**
+14a| **[ CSS Transforms, Transitions, and Animations](./class14a.md)**
+14b| **[ What Google Learned About Teams](./class14b.md)**
 
 
 
