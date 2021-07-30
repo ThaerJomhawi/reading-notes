@@ -8,7 +8,7 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 
 # Table of contents
 
-## **Coding 102 Course** 
+## **Code 102 - Intro to Software Development** 
 
 
 no  |  Reading title
@@ -22,7 +22,7 @@ no  |  Reading title
 
 ###
 
-## **Coding 201**
+## **Code 201 - Foundations of Software Development**
 
 no  |  Reading title
 ------------ | -------------
@@ -41,6 +41,18 @@ no  |  Reading title
 13| **[ Local Storage](./class13.md)**
 14a| **[ CSS Transforms, Transitions, and Animations](./class14a.md)**
 14b| **[ What Google Learned About Teams](./class14b.md)**
+
+###
+
+## **Code 301 - Intermediate Software Development**
+
+no  |  Reading title
+------------ | -------------
+1| **[-](-)**
+2| **[-](-)**
+3| **[-](-)**
+4| **[-](-)**
+5| **[-](-)**
 
 
 
