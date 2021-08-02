@@ -49,7 +49,7 @@ no  |  Reading title
 no  |  Reading title
 ------------ | -------------
 1| **[Introduction to React and Components](./code301/class01.md)**
-2| **[-](-)**
+2| **[State and Props](./code301/class02.md)**
 3| **[-](-)**
 4| **[-](-)**
 5| **[-](-)**
