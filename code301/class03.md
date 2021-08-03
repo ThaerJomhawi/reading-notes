@@ -6,13 +6,13 @@
 
 ### 1-What does .map() return?
 
- map function in general to go through each element inside arry
+ map function in general to go through each element inside array
 
 ### 2-If I want to loop through an array and display each value in JSX, how do I do that in React?
 
 You can build collections of elements and include them in JSX using curly braces {}.
 
-We return a <li> element for each item and we assign the resulting array of elements to listItems, then include the listItems array inside a <ul> element, and render it to the DOM (ReactDOM.render)
+We return a (li) element for each item and we assign the resulting array of elements to listItems, then include the listItems array inside a (ul) element, and render it to the DOM (ReactDOM.render)
 
 ### 3-Each list item needs a unique ____.
 
@@ -22,9 +22,12 @@ key
 
 Keys help React identify which items have changed, are added, or are removed, so it give the element stable identity. you can pick a key by using a string that uniquely identifies a list item among its siblings. usually we are using IDs from the data as keys. But only if items have no stable IDs we use item index as a key.
 
-###
+*-------------------------------*
+
 
 ## The Spread Operator
+
+###
 
 ### 1-What is the spread operator?
 
