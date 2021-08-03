@@ -1,5 +1,9 @@
 # Introduction to React and Components
 
+## What is a component?
+
+Component is reusable part of UI that encapsulating certain functionality or a set of functionalities and exporting it as a higher-level interface
+
 ## React
 
 React is an open-source,front end,JS library created by FB. react is a user interface (UI) library. and tool for building UI components.
@@ -23,8 +27,8 @@ pass it to child component(s) by using Props
 render the Props Data
 What is the flow of props?
 
+## What is the flow of props?
 uni-directional flow. (one way from parent to child)
-
 
 ## charactistics of a component
 Reusability − reused in different situations
