@@ -50,7 +50,7 @@ no  |  Reading title
 ------------ | -------------
 1| **[Introduction to React and Components](./code301/class01.md)**
 2| **[State and Props](./code301/class02.md)**
-3| **[-](-)**
+3| **[Passing Functions as Props](./code301/class03.md)**
 4| **[-](-)**
 5| **[-](-)**
 
