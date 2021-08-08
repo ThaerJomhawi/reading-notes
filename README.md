@@ -53,7 +53,7 @@ no  |  Reading title
 3| **[Passing Functions as Props](./code301/class03.md)**
 4| **[React and Forms](./code301/class04.md)**
 5| **[Putting it all together](./code301/class05.md)**
-6| **[-](-)**
+6| **[Node JS](./code301/class06.md)**
 7| **[-](-)**
 8| **[-](-)**
 9| **[-](-)**
