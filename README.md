@@ -52,5 +52,9 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 5   | **[Putting it all together](./code301/class05.md)**              |
 | 6   | **[Node JS](./code301/class06.md)**                              |
 | 7   | **[REST](./code301/class07.md)**                                 |
-| 8   | **[-](-)**                                                       |
+| 8   | **[APIs](./code301/class08.md)**                                 |
 | 9   | **[FUNCTIONAL PROGRAMMING](./code301/class09.md)**               |
+| 10  | **[In memory storage](./code301/class10.md)**                    |
+| 11  | **[-](-)**                                                       |
+| 12  | **[-](-)**                                                       |
+| 13  | **[-](-)**                                                       |
