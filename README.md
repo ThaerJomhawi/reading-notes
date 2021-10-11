@@ -59,23 +59,22 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 12  | **[Mongo and Mongoose](./code301/class12.md)**                   |
 | 13  | **[CRUD](./code301/class13.md)**                                 |
 
-
 ###
 
 ## **Code 401 - Advanced Software Development**
 
-| no  | Reading title                                                    |
-| --- | ---------------------------------------------------------------- |
-| 1   | **[Java Basics](./code401/class01.md)**
-| 2   |                                                                  |
-| 3   |                                                                  |
-| 4   |                                                                  |
-| 5   |                                                                  |
-| 6   |                                                                  |
-| 7   |                                                                  |
-| 8   |                                                                  |
-| 9   |                                                                  |
-| 10  |                                                                  |
-| 11  |                                                                  |
-| 12  |                                                                  |
-| 13  |                                                                  |
+| no  | Reading title                                      |
+| --- | -------------------------------------------------- |
+| 1   | **[Java Basics](./code401/class01.md)**            |
+| 2   | **[Arrays, Loops, Imports](./code401/class02.md)** |
+| 3   |                                                    |
+| 4   |                                                    |
+| 5   |                                                    |
+| 6   |                                                    |
+| 7   |                                                    |
+| 8   |                                                    |
+| 9   |                                                    |
+| 10  |                                                    |
+| 11  |                                                    |
+| 12  |                                                    |
+| 13  |                                                    |
