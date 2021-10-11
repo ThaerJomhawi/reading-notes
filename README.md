@@ -67,7 +67,7 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | no  | Reading title                                                    |
 | --- | ---------------------------------------------------------------- |
 | 1   | **[Java Basics](./code401/class01.md)**
-| 2   |                                                                  |
+| 2   | **[Arrays, Loops, Imports](./code401/class02.md)**               |
 | 3   |                                                                  |
 | 4   |                                                                  |
 | 5   |                                                                  |
