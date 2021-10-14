@@ -68,8 +68,8 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 1   | **[Java Basics](./code401/class01.md)**                |
 | 2   | **[Arrays, Loops, Imports](./code401/class02.md)**     |
 | 3   | **[Maps, primitives, File I/O](./code401/class03.md)** |
-| 4   | **[OOP](./code401/class04.md)** |
-| 5   |                                                        |
+| 4   | **[OOP](./code401/class04.md)**                        |
+| 5   | **[Linked Lists](./code401/class05.md)**               |     
 | 6   |                                                        |
 | 7   |                                                        |
 | 8   |                                                        |
