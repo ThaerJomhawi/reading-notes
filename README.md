@@ -72,8 +72,8 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 5   | **[Linked Lists](./code401/class05.md)**               |
 | 6   | **[Inheritance and Interfaces](./code401/class06.md)** |
 | 7   | **[Object Oriented Design](./code401/class08.md)**     |
-| 8   | **[WRRC and Java](./code401/class08.md)**              |
-| 9   |                                                        |
+| 8   | **[WRRC and Java](./code401/class09.md)**              |
+| 9   | **[Stacks and Queues](./code401/class10.md)**          |
 | 10  |                                                        |
 | 11  |                                                        |
 | 12  |                                                        |
