@@ -78,4 +78,5 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 11  | **[Spring RESTful Routing & Static Files](./code401/class12.md)**     |
 | 12  | **[Related Resources and Integration Testing](./code401/class13.md)** |
 | 13  | **[Tree](./code401/class14.md)**                                      |
-| 13  | **[Spring Authentication](./code401/class15.md)**                                      |
+| 14  | **[Spring Authentication](./code401/class15.md)**                     |
+| 15  | **[Spring Authorization](./code401/class17.md)**                     |
