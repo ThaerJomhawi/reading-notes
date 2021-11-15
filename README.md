@@ -17,7 +17,7 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 5   | **[ Java script](./Read04)**             |
 | 6   | **[ Java script loops](./Read05)**       |
 
-###
+
 
 ## **Code 201 - Foundations of Software Development**
 
@@ -39,7 +39,7 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 14a | **[ CSS Transforms, Transitions, and Animations](./class14a.md)**                  |
 | 14b | **[ What Google Learned About Teams](./class14b.md)**                              |
 
-###
+
 
 ## **Code 301 - Intermediate Software Development**
 
@@ -59,28 +59,29 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 12  | **[Mongo and Mongoose](./code301/class12.md)**                   |
 | 13  | **[CRUD](./code301/class13.md)**                                 |
 
-###
+
 
 ## **Code 401 - Advanced Software Development**
 
-| no  | Reading title                                                         |
-| --- | --------------------------------------------------------------------- |
-| 1   | **[Java Basics](./code401/class01.md)**                               |
-| 2   | **[Arrays, Loops, Imports](./code401/class02.md)**                    |
-| 3   | **[Maps, primitives, File I/O](./code401/class03.md)**                |
-| 4   | **[OOP](./code401/class04.md)**                                       |
-| 5   | **[Linked Lists](./code401/class05.md)**                              |
-| 6   | **[Inheritance and Interfaces](./code401/class06.md)**                |
-| 7   | **[Object Oriented Design](./code401/class08.md)**                    |
-| 8   | **[WRRC and Java](./code401/class09.md)**                             |
-| 9   | **[Stacks and Queues](./code401/class10.md)**                         |
-| 10  | **[Spring](./code401/class11.md)**                                    |
-| 11  | **[Spring RESTful Routing & Static Files](./code401/class12.md)**     |
-| 12  | **[Related Resources and Integration Testing](./code401/class13.md)** |
-| 13  | **[Tree](./code401/class14.md)**                                      |
-| 14  | **[Spring Authentication](./code401/class15.md)**                     |
-| 15  | **[Spring Authorization](./code401/class17.md)**                      |
-| 16  | **[Web App Security](./code401/class18.md)**                          |
-| 17  | **[websockets](./code401/class19.md)**                                |
-| 18 | **[Android Fundamentals](./code401/class20.md)**                                |
+| no  | Reading title                                                           |
+| --- | ----------------------------------------------------------------------- |
+| 1   | **[Java Basics](./code401/class01.md)**                                 |
+| 2   | **[Arrays, Loops, Imports](./code401/class02.md)**                      |
+| 3   | **[Maps, primitives, File I/O](./code401/class03.md)**                  |
+| 4   | **[OOP](./code401/class04.md)**                                         |
+| 5   | **[Linked Lists](./code401/class05.md)**                                |
+| 6   | **[Inheritance and Interfaces](./code401/class06.md)**                  |
+| 7   | **[Object Oriented Design](./code401/class08.md)**                      |
+| 8   | **[WRRC and Java](./code401/class09.md)**                               |
+| 9   | **[Stacks and Queues](./code401/class10.md)**                           |
+| 10  | **[Spring](./code401/class11.md)**                                      |
+| 11  | **[Spring RESTful Routing & Static Files](./code401/class12.md)**       |
+| 12  | **[Related Resources and Integration Testing](./code401/class13.md)**   |
+| 13  | **[Tree](./code401/class14.md)**                                        |
+| 14  | **[Spring Authentication](./code401/class15.md)**                       |
+| 15  | **[Spring Authorization](./code401/class17.md)**                        |
+| 16  | **[Web App Security](./code401/class18.md)**                            |
+| 17  | **[websockets](./code401/class19.md)**                                  |
+| 18  | **[Android Fundamentals](./code401/class20.md)**                        |
+| 19  | **[ Intents, Activities, and SharedPreferences](./code401/class21.md)** |
 
