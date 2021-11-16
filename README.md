@@ -84,4 +84,5 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 17  | **[websockets](./code401/class19.md)**                                  |
 | 18  | **[Android Fundamentals](./code401/class20.md)**                        |
 | 19  | **[ Intents, Activities, and SharedPreferences](./code401/class21.md)** |
+| 20  | **[ RecyclerView](./code401/class22.md)**                               |
 
