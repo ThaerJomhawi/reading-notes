@@ -87,6 +87,6 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 20  | **[ RecyclerView](./code401/class22.md)**                               |
 | 21  | **[ Room](./code401/class23.md)**                                       |
 | 22  | **[ Hash Tables](./code401/class24.md)**                                |
-| 23  | **[Espresso](./code401/class25.md)**                                |
-| 23  | **[Serverless and Amplify](./code401/class26.md)**                                |
-
+| 23  | **[Espresso](./code401/class25.md)**                                    |
+| 24  | **[Serverless and Amplify](./code401/class26.md)**                      |
+| 25  | **[GraphQL @connection](./code401/class27.md)**                         |
