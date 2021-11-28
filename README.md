@@ -92,3 +92,4 @@ Iam `Thaer Al Jomhawi`, 26 years old, studied chemical engineering at BAU, gradu
 | 25  | **[GraphQL @connection](./code401/class27.md)**                         |
 | 26  | **[Monetization](./code401/class28.md)**                                |
 | 27  | **[Graphs](./code401/class29.md)**                                      |
+| 28  | **[Cognito](./code401/class30.md)**                                     |
